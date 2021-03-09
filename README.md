@@ -19,6 +19,9 @@ After downloading follow these steps:
 3. Press CAPSLOCK (to kill the explorer) .
 4. If you want to ALT-TAB, press ALT + HOME (to restart the explorer).
 5. Enjoy!
+6. !!! WARNING !!!
+If FORZA crashed by itself, then you need to restart your computer, otherwise the hotkeys will not work (Restart explorer = forza will close)!!!
+
 </p>
 <h2></h2>
 <h3 align="center">RU:</h3>
@@ -38,6 +41,7 @@ After downloading follow these steps:
 3. Прожми CAPSLOCK, чтобы убить процесс проводника.
 4. Если захочешь свернуть игру, то сначала прожми сочетание клавиш ALT + HOME, чтобы запустить проводник.
 5. Кайфуй!
+6. !!!ВНИМАНИЕ!!! Если Forza крашнулась(сама по себе, что бывает когда проводник работает), то тебе надо перезапустить пк, иначе хот-кеи будут работать неисправно(Restart explorer == игра вылетит)
 </p>
 
 
