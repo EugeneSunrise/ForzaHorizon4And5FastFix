@@ -3,6 +3,7 @@
 </p>
 <h2 align="center">Fast And Easy Fix Forza Horizon 4 Crashes</h2>
 <h3 align="center">ENG:</h3>
+<h3>WORKS ONLY FOR MICROSOFT STORE VERSION</h3>
 <h3>How does it works? Very easy</h3>
 <p>
  First of all you must download ForzaFix.exe
@@ -25,6 +26,7 @@ If FORZA crashed by itself, then you need to restart your computer, otherwise th
 </p>
 <h2></h2>
 <h3 align="center">RU:</h3>
+<h3>РАБОТАЕТ ТОЛЬКО ДЛЯ ВЕРСИИ ИГРЫ ИЗ MICROSOFT STORE</h3>
 <h3>Как это работает? Очень просто</h3>
 <p>
 Прежде всего тебе надо скачать ForzaFix.exe
