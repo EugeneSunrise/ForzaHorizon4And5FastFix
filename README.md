@@ -19,8 +19,7 @@ After downloading follow these steps:
 2. Wait for the main screen to load or when Forza switches to full screen mode.
 3. Press CAPSLOCK (to kill the explorer) .
 4. If you want to ALT-TAB, press ALT + HOME (to restart the explorer).
-5. Enjoy!
-6. !!! WARNING !!!
+5. !!! WARNING !!!
 If FORZA crashed by itself, then you need to restart your computer, otherwise the hotkeys will not work (Restart explorer = forza will close)!!!
 
 </p>
@@ -42,8 +41,5 @@ If FORZA crashed by itself, then you need to restart your computer, otherwise th
 2. Дождись загрузки главного экрана или когда Форза будет перейдет в полноэкранный режим.
 3. Прожми CAPSLOCK, чтобы убить процесс проводника.
 4. Если захочешь свернуть игру, то сначала прожми сочетание клавиш ALT + HOME, чтобы запустить проводник.
-5. Кайфуй!
-6. !!!ВНИМАНИЕ!!! Если Forza крашнулась(сама по себе, что бывает когда проводник работает), то тебе надо перезапустить пк, иначе хот-кеи будут работать неисправно(Restart explorer == игра вылетит)
+5. !!!ВНИМАНИЕ!!! Если Forza крашнулась(сама по себе, что бывает когда проводник работает), то тебе надо перезапустить пк, иначе хот-кеи будут работать неисправно(Restart explorer == игра вылетит)
 </p>
-
-
