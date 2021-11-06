@@ -10,7 +10,8 @@
 </p>
 <h3>Download</h3>
 <ul>
-  <li><a href="https://github.com/EugeneSunrise/ForzaHorizon4FastFix/releases/download/1.0/ForzaFix.exe">ForzaFix.exe</a> or check releases</li> 
+  <li><a href="https://github.com/EugeneSunrise/ForzaHorizon4FastFix/releases/download/1.0/ForzaFix.exe">ForzaFix.exe(Forza Horizon 4)</a> or check releases</li>
+  <li><a href="https://github.com/EugeneSunrise/ForzaHorizon4And5FastFix/releases/download/2.0/ForzaFix.exe">ForzaFix.exe(Forza Horizon 5)</a> or check releases</li>
 </ul>
 <p>
 After downloading follow these steps: 
@@ -32,7 +33,8 @@ If FORZA crashed by itself, then you need to restart your computer, otherwise th
 </p>
 <h3>Скачать</h3>
 <ul>
-  <li><a href="https://github.com/EugeneSunrise/ForzaHorizon4FastFix/releases/download/1.0/ForzaFix.exe">ForzaFix.exe</a> или скачивай из releases</li> 
+  <li><a href="https://github.com/EugeneSunrise/ForzaHorizon4FastFix/releases/download/1.0/ForzaFix.exe">ForzaFix.exe(Forza Horizon 4)</a> или скачивай из releases</li>
+  <li><a href="https://github.com/EugeneSunrise/ForzaHorizon4And5FastFix/releases/download/2.0/ForzaFix.exe">ForzaFix.exe(Forza Horizon 5)</a> или скачивай из releases</li>
 </ul>
 <p>
 После скачивания выполняй следущие действия:
