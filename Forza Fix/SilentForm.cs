@@ -41,7 +41,8 @@ namespace TestVeryHotKeys
             Process myProcess = new Process();
             myProcess.StartInfo.UseShellExecute = false;
             myProcess.StartInfo.FileName = "cmd";
-            myProcess.StartInfo.Arguments = "/K explorer.exe shell:appsFolder\\Microsoft.SunriseBaseGame_8wekyb3d8bbwe!SunriseReleaseFinal & exit"; // check virtual windows folder and find forza
+            //myProcess.StartInfo.Arguments = "/K explorer.exe shell:appsFolder\\Microsoft.SunriseBaseGame_8wekyb3d8bbwe!SunriseReleaseFinal & exit"; // check virtual windows folder and find forza Forza Horizon 4
+            myProcess.StartInfo.Arguments = "/K explorer.exe shell:appsFolder\\Microsoft.624F8B84B80_8wekyb3d8bbwe!ForzaHorizon5 & exit"; // check virtual windows folder and find forza
             myProcess.StartInfo.CreateNoWindow = true;
             myProcess.Start();
 
@@ -50,7 +51,7 @@ namespace TestVeryHotKeys
             while (forzaProcess == false)
             {
                 foreach (Process proc in Process.GetProcesses())
-                    if (proc.ProcessName == "ForzaHorizon4")
+                    if (proc.ProcessName == "ForzaHorizon5")
                     {
                         forzaProcess = true;
                         proc.EnableRaisingEvents = true;
