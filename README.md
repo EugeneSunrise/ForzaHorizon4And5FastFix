@@ -3,6 +3,7 @@
 </p>
 <h2 align="center">Fast And Easy Fix Forza Horizon 4 Crashes</h2>
 <h3 align="center">ENG:</h3>
+<h3>WORKS ONLY FOR MICROSOFT STORE VERSION</h3>
 <h3>How does it works? Very easy</h3>
 <p>
  First of all you must download ForzaFix.exe
@@ -18,13 +19,13 @@ After downloading follow these steps:
 2. Wait for the main screen to load or when Forza switches to full screen mode.
 3. Press CAPSLOCK (to kill the explorer) .
 4. If you want to ALT-TAB, press ALT + HOME (to restart the explorer).
-5. Enjoy!
-6. !!! WARNING !!!
+5. !!! WARNING !!!
 If FORZA crashed by itself, then you need to restart your computer, otherwise the hotkeys will not work (Restart explorer = forza will close)!!!
 
 </p>
 <h2></h2>
 <h3 align="center">RU:</h3>
+<h3>РАБОТАЕТ ТОЛЬКО ДЛЯ ВЕРСИИ ИГРЫ ИЗ MICROSOFT STORE</h3>
 <h3>Как это работает? Очень просто</h3>
 <p>
 Прежде всего тебе надо скачать ForzaFix.exe
@@ -40,8 +41,5 @@ If FORZA crashed by itself, then you need to restart your computer, otherwise th
 2. Дождись загрузки главного экрана или когда Форза будет перейдет в полноэкранный режим.
 3. Прожми CAPSLOCK, чтобы убить процесс проводника.
 4. Если захочешь свернуть игру, то сначала прожми сочетание клавиш ALT + HOME, чтобы запустить проводник.
-5. Кайфуй!
-6. !!!ВНИМАНИЕ!!! Если Forza крашнулась(сама по себе, что бывает когда проводник работает), то тебе надо перезапустить пк, иначе хот-кеи будут работать неисправно(Restart explorer == игра вылетит)
+5. !!!ВНИМАНИЕ!!! Если Forza крашнулась(сама по себе, что бывает когда проводник работает), то тебе надо перезапустить пк, иначе хот-кеи будут работать неисправно(Restart explorer == игра вылетит)
 </p>
-
-
