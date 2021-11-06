@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://miro.medium.com/max/600/0*HSWc0shJyho-x07J.jpg"/><br>
 </p>
-<h2 align="center">Fast And Easy Fix Forza Horizon 4 Crashes</h2>
+<h2 align="center">Fast And Easy Fix Forza Horizon 4 & Forza Horizon 5 Crashes</h2>
 <h3 align="center">ENG:</h3>
 <h3>WORKS ONLY FOR MICROSOFT STORE VERSION</h3>
 <h3>How does it works? Very easy</h3>
